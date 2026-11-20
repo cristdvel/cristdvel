@@ -1,11 +1,11 @@
 # Cristhian Velásquez Marcano
 
-Analista de medición digital y MarTech. Casi 5 años implementando y auditando
-tracking con GA4, GTM server-side, Consent Mode v2 y BigQuery. Madrid.
-**Abierto a incorporación en analítica digital / MarTech (Madrid o remoto UE)**
+Digital Analyst especializado en implementación de medición. Casi 5 años implementando y auditando
+tracking con GA4, GTM (web y server-side), Consent Mode v2 y BigQuery. Madrid.
+**Abierto a incorporación como Digital Analyst / Analytics Implementation (Madrid o remoto UE)**
 y a proyectos.
 
-*Digital measurement and MarTech analyst, Madrid. Open to full-time roles
+*Digital Analyst focused on measurement implementation, Madrid. Open to full-time roles
 (Madrid / remote EU) and to projects.*
 
 [Web y casos](https://cristhianvelasquez.com) · [LinkedIn](https://www.linkedin.com/in/cristhianvelasquez/) · CV: [ES](https://cristhianvelasquez.com/cv/cristhian-velasquez-cv-ats.pdf) · [EN](https://cristhianvelasquez.com/cv/cristhian-velasquez-cv-en-ats.pdf)
